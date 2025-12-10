@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="left">
+  <h2>Hi there 👋</h2>
+  <p>I'm Rithwik, a full stack developer.</p>
+</div>
+<div>
+<p>I build cool stuff — from sleek frontends to solid backend systems.</p>
+<p>Love crafting smooth, user-friendly interfaces.Turn concepts into real products with clean architecture.</p>
+<p>Use Figma to design intuitive UI/UX before writing a line of code</p>
 
-<!--
-**rithwiksagar/rithwiksagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+- **Open to work 💻**
+</div>
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Tech
+
+**Frontend**: React, Next.js, Tailwind, Figma
+
+**Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma
+
+**Tools & Platforms**: Git, GitHub, Vim, VS Code, Postman, GraphQL, Docker
+
+**Languages**: TypeScript, JavaScript, Java, C
+
+
+<hr>
+
+##  Projects
+- **Alimrah** – A simple and intuitive link-storage web application designed to help you save, organize, and revisit any kind of link you come across on the internet. Whether it's articles, videos, resources, or tools
+
+
+## 📫 Contact
+- Email: rithwiksagar6@example.com
+- LinkedIn: https://www.linkedin.com/in/rithwiksagar
+- Twitter: [https://x.com/rithwiksagarr](https://x.com/rithwiksagarr)
+
