@@ -31,7 +31,8 @@
 
 
 ## 📫 Contact
-- Email: rithwiksagar6@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rithwiksagar
-- Twitter: [https://x.com/rithwiksagarr](https://x.com/rithwiksagarr)
+- [Email](rithwiksagar6@gmail.com)
+- [PortFolio]()
+- [LinkedIn](https://www.linkedin.com/in/rithwiksagar)
+- [Twitter](https://x.com/rithwiksagarr)
 
